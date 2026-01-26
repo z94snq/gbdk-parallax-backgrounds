@@ -55,7 +55,6 @@ C:\gbdk\bin\png2asset.exe FlappyBirdBackground.png -map -use_map_attributes
 
 ## Resources
 - GBDK: https://github.com/gbdk-2020/gbdk-2020
-- GB Studio SciFi Character Assets by The Pixel Nook: https://the-pixel-nook.itch.io/gb-studio-scifi-characters
 - Aseprite: https://www.aseprite.org/
 - png2asset Tutorial: https://laroldsretrogameyard.com/tutorials/gb/png2asset-graphics-creation-for-gbdk-2020
 - Parallax Backgrounds Tutorial: https://laroldsretrogameyard.com/tutorials/gb/parallax-backgrounds-with-gbdk-2020/
